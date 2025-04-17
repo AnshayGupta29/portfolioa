@@ -1,4 +1,5 @@
 /* eslint-disable react/jsx-no-undef */
+// eslint-disable-next-line react/jsx-no-undef
 "use client"
 
 import { ThemeToggle } from "@/components/theme-toggle";
